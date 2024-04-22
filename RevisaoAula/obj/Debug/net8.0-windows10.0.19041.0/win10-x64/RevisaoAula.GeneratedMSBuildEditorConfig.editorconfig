@@ -8,59 +8,59 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RevisaoAula
-build_property.ProjectDir = C:\Users\Bianc\source\bianca\RevisaoAula\RevisaoAula\
+build_property.ProjectDir = C:\Users\Bianc\source\bianca\RevisaoAula\Mobile\RevisaoAula\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/App.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/AppShell.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/MainPage.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/Page1.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/Page1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.Page1.xaml
 build_metadata.AdditionalFiles.TargetPath = Page1.xaml
 build_metadata.AdditionalFiles.RelativePath = Page1.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/paginas/calculadora.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/paginas/calculadora.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.paginas.calculadora.xaml
 build_metadata.AdditionalFiles.TargetPath = paginas\calculadora.xaml
 build_metadata.AdditionalFiles.RelativePath = paginas\calculadora.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/paginas/Texto.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/paginas/Texto.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.paginas.Texto.xaml
 build_metadata.AdditionalFiles.TargetPath = paginas\Texto.xaml
 build_metadata.AdditionalFiles.RelativePath = paginas\Texto.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/paginas/Troca.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/paginas/Troca.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.paginas.Troca.xaml
 build_metadata.AdditionalFiles.TargetPath = paginas\Troca.xaml
 build_metadata.AdditionalFiles.RelativePath = paginas\Troca.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/Resources/Styles/Colors.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Bianc/source/bianca/RevisaoAula/RevisaoAula/Resources/Styles/Styles.xaml]
+[C:/Users/Bianc/source/bianca/RevisaoAula/Mobile/RevisaoAula/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RevisaoAula.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

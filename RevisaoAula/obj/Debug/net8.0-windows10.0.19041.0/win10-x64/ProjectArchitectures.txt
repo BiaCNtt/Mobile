@@ -1,1 +1,1 @@
-C:\Users\Bianc\source\bianca\RevisaoAula\RevisaoAula\RevisaoAula.csproj;x64
+C:\Users\Bianc\source\bianca\RevisaoAula\Mobile\RevisaoAula\RevisaoAula.csproj;x64

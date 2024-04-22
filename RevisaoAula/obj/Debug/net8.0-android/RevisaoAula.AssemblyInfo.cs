@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevisaoAula")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fef4e042a236d705d06c5618c53e4cc8eaf2da46")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevisaoAula")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevisaoAula")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

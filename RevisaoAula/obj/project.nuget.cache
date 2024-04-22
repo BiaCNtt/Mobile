@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BaMUgPH8aSIw5rhqEsAaXBpHXWU4+VLQjda+QoBWhebQP6qsQWlfN7wem8BU0QK1oVsV1j05BGdpBSn4e1Vmig==",
+  "dgSpecHash": "FVBz/HtxSZIaTTag1PBL0xriAFMoLoV8qWZRuWwLT8BczEd//RSDSNIzGUZP+s4BAGKtPbDCHAV4RpUt7QDPkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\RevisaoAula\\RevisaoAula.csproj",
+  "projectFilePath": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\Mobile\\RevisaoAula\\RevisaoAula.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bianc\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Bianc\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

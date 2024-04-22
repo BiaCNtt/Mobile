@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\RevisaoAula\\RevisaoAula.csproj",
+      "projectUniqueName": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\Mobile\\RevisaoAula\\RevisaoAula.csproj",
       "projectName": "RevisaoAula",
-      "projectPath": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\RevisaoAula\\RevisaoAula.csproj",
+      "projectPath": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\Mobile\\RevisaoAula\\RevisaoAula.csproj",
       "packagesPath": "C:\\Users\\Bianc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\RevisaoAula\\obj\\",
+      "outputPath": "C:\\Users\\Bianc\\source\\bianca\\RevisaoAula\\Mobile\\RevisaoAula\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
