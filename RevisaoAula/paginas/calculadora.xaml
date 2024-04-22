@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="RevisaoAula.paginas.calculadora"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="calculadora">
+    <VerticalStackLayout>
+
+        <TableView>
+            <TableSection Title="Calculadora">
+                <EntryCell
+                    HorizontalTextAlignment="Center"
+                    Keyboard="Numeric"
+                    Label="Numero1"
+                    Placeholder="digite aqui" />
+
+                <EntryCell
+                    HorizontalTextAlignment="Center"
+                    Keyboard="Numeric"
+                    Label="Numero2"
+                    Placeholder="digite aqui" />
+
+                <EntryCell
+                    HorizontalTextAlignment="Center"
+                    Keyboard="Numeric"
+                    Label="Resultado" />
+            </TableSection>
+        </TableView>
+
+
+        <Picker Title="Selecione o perfil:" TitleColor="Red">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Aluno</x:String>
+                    <x:String>Docente</x:String>
+                    <x:String>TAE</x:String>
+                    <x:String>Outro</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+
+        <Button
+            Clicked="Calcular"
+            HorizontalOptions="Center"
+            Text="Calcular" />
+
+        <Button
+            Clicked="Voltar"
+            HorizontalOptions="Center"
+            Text="Voltar" />
+    </VerticalStackLayout>
+</ContentPage>
